@@ -17,7 +17,7 @@ public class Authentication {
    * @param password This is the user parameter to keep their information secure. 
    * @param email This is the user parameter to connect to the other people.
    * @param firstName This is the user first name to know their identity.
-   * @oaram lastName This is the user last name to know their identity.
+   * @param lastName This is the user last name to know their identity.
    * @param address This is the user address for their security.
    * @param phoneNumber This is the user phone number for their contact.
    * @param altphone This is the user alternative phone number for emaergency contact. 
