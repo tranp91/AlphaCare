@@ -2,7 +2,6 @@
 import java.util.Date;
 
 
-
 /**
  *
  * @author Phong Tran. Ami Bhagat, Michael Smith
@@ -23,8 +22,12 @@ public class Registration {
     private String altPhone; //input alternative phone number
     private Date dateOfBirth;//input the date of birth
     private String accountType; //choosing which account associate with
-    
-    public String getUserName(){
+   
+   /**
+   * Method to create user registration by given information. 
+   */
+   
+   public String getUserName(){
         return username;
     }
     
